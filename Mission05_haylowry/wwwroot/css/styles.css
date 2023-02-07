@@ -1,0 +1,20 @@
+﻿body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #ced4da;
+    margin-left: 5pc;
+    margin-right: 5pc;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 367.5px;
+    height: 490px;
+}
+label {
+    display: inline-block;
+    width: 150px;
+}
+p {
+    margin-right: 50%
+}
